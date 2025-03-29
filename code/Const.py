@@ -19,8 +19,27 @@ ENTITY_SPEED = {
     'Enemy2':3
 }
 
+#E
+ENTITY_HEALTH = {
+    'Level1Bg0': 999,
+    'Level1Bg1': 999,
+    'Level1Bg2': 999,
+    'Level1Bg3': 999,
+    'Level1Bg4': 999,
+    'Player1': 300,
+    #'Player1Shot': 999,
+    'Player2': 300,
+    #'Player2Shot': 999,
+    'Enemy1': 50,
+    #'Enemy1Shot': 999,
+    'Enemy2': 60,
+    #'Enemy2Shot': 999,
+
+
+}
+
 #S
-SPAWN_TIME = 3000
+SPAWN_TIME = 2000
 # M
 MENU_OPTION = ('NEW GAME 1P',
                'NEW GAME 2P - COOPERATIVE',
